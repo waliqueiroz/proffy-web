@@ -4,9 +4,6 @@ Projeto desenvolvido durante a Next Level Week 2.
 
 Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocketseat.com.br/).
 
-* Proffy(professor), trata-se de uma plataforma que possibilita alunos a encontrarem professores de diversos conteúdos, de forma rápida e prática.
-* Neste repositório está apenas o front-end da aplicação, desenvolvido com ReactJS, utilizando TypeScript.
-
 ## Tecnologias utilizadas
   - TypeScript
   - React JS
@@ -22,7 +19,7 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 
 ### Executando o projeto
 
-## Baixar dependências
+### Baixar dependências
 ```
 yarn
 ```
