@@ -33,6 +33,12 @@ yarn
 yarn start
 ```
 
+## Outros repositórios
+
+> [Api REST](https://github.com/waliqueiroz/proffy-api)
+>
+> [Aplicativo](https://github.com/waliqueiroz/proffy-mobile)
+
 ## Sobre o autor
 > [Wali Queiroz](https://www.linkedin.com/in/waliqueiroz/)
 > 
