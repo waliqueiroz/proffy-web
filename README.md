@@ -1,6 +1,6 @@
 # Proffy - Versão Web
 
-Proffy é uma plataforma de estudos online, onde alunos coneseguem encontrar e se conectar a professores.
+Proffy é uma plataforma de estudos online onde alunos coneseguem encontrar e se conectar a professores.
 
 Projeto desenvolvido durante a Next Level Week 2.
 
