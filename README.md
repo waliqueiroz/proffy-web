@@ -33,11 +33,6 @@ yarn
 yarn start
 ```
 
-#### Compilar versão para produção
-```
-yarn build
-```
-
 ## Sobre o autor
 > [Wali Queiroz](https://www.linkedin.com/in/waliqueiroz/)
 > 
