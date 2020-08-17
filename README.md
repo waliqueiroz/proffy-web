@@ -14,12 +14,12 @@ Projeto desenvolvido durante a Next Level Week 2.
 
 ## Como executar o projeto?
 
-### Pré-requisitos para testes
+### Pré-requisitos
 
 * [Node JS](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/)
 
-## Executando o projeto
+### Executando o projeto
 
 #### Baixar dependências
 ```
