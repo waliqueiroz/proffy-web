@@ -1,8 +1,10 @@
 # Proffy - Versão Web
 
+Proffy é uma plataforma de estudos online, onde alunos coneseguem encontrar e se conectar a professores.
+
 Projeto desenvolvido durante a Next Level Week 2.
 
-Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocketseat.com.br/).
+*Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocketseat.com.br/).
 
 ## Tecnologias utilizadas
   - TypeScript
