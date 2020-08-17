@@ -21,17 +21,17 @@ Projeto desenvolvido durante a Next Level Week 2.
 
 ## Executando o projeto
 
-### Baixar dependências
+#### Baixar dependências
 ```
 yarn
 ```
 
-### Inicializar servidor de desenvolvimento
+#### Inicializar servidor de desenvolvimento
 ```
 yarn start
 ```
 
-### Compilar versão para produção
+#### Compilar versão para produção
 ```
 yarn build
 ```
