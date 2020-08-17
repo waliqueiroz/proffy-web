@@ -2,7 +2,7 @@
 
 ![Proffy](https://github.com/waliqueiroz/proffy-web/blob/master/proffy-web.png)
 
-Proffy é uma plataforma de estudos online onde alunos coneseguem encontrar e se conectar a professores.
+Proffy é uma plataforma de estudos online onde alunos conseguem encontrar e se conectar a professores.
 
 Projeto desenvolvido durante a Next Level Week 2.
 
