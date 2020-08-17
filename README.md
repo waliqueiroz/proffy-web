@@ -17,7 +17,7 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 * [Node JS](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/)
 
-### Executando o projeto
+## Executando o projeto
 
 ### Baixar dependências
 ```
